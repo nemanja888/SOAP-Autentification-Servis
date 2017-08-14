@@ -1,0 +1,46 @@
+body {
+    background: #eee;
+}
+
+.wrapper {
+    width: 50%;
+    margin: auto;
+    margin-top: 150px;
+    border: 1px solid #3276b1;
+    padding: 0px;
+}
+
+.login{
+    background-color: #fff;
+    padding: 20px;
+    margin: 0px;
+}
+
+.login h2{
+ text-align: center;
+}
+
+.login input{
+    width:250px;
+    height: 38px;
+    margin-left:80px;
+    text-align: center;
+}
+
+.login input:nth-child(2){
+    margin-bottom: 20px;
+}
+
+.btnLogin{
+    margin-top: 30px;
+    margin-left: 114px;
+    width:190px;
+    height: 38px;
+    background-color: #3276b1;
+    border:1px splid #fff;
+    border-radius: 10px;
+    color: #fff;
+}
+
+
+

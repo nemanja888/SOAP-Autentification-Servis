@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user id="1">
+        <name>Marko Markovic</name>
+        <email>markov@mail.com</email>
+        <password>202cb962ac59075b964b07152d234b70</password>
+    </user>
+    <user id="2">
+        <name>Petar Petrovic</name>
+        <email>petrov@mail.com</email>
+        <password>c8ffe9a587b126f152ed3d89a146b445</password>
+    </user>
+    <user id="3">
+        <name>Laza Lazic</name>
+        <email>lazin@mail.com</email>
+        <password>3def184ad8f4755ff269862ea77393dd</password>
+    </user>
+</users>
